@@ -1,6 +1,0 @@
-Initial line
-<<<<<<< HEAD
-Branch-a
-=======
-second one
->>>>>>> bb-2
